@@ -77,7 +77,7 @@ const TelegramAlert = ({ interval = 15000, duration = 7000, delay = 1000 }) => {
                 </p>
 
                 <a
-                  href="https://github.com/lautiipereiraa/usdzhinbot"
+                  href="https://github.com/lautaropereirag/usdzhinbot"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group"

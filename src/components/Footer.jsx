@@ -19,7 +19,7 @@ const Footer = () => {
               Fuente: DolarApi y ComparaDolar
             </p>
             <a 
-              href="https://github.com/lautiipereiraa/usdzhinbot" 
+              href="https://github.com/lautaropereirag/usdzhinbot" 
               target="_blank" 
               rel="noopener noreferrer"
               className="mt-4 pt-2 text-xs font-semibold text-[color:var(--text-color)] opacity-80 hover:opacity-100 hover:text-blue-600 dark:hover:text-blue-400 transition-colors flex items-center gap-1.5"
@@ -39,7 +39,7 @@ const Footer = () => {
               <LinkedinIcon className="w-5 h-5" />
             </a>
             <a
-              href="https://github.com/lautiipereiraa"
+              href="https://github.com/lautaropereirag"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 text-slate-400 hover:text-slate-900 dark:hover:text-white transition-colors"

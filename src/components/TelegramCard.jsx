@@ -27,7 +27,7 @@ const TelegramCard = () => {
 
                     <div className="flex flex-col sm:flex-row gap-3">
                         <a
-                            href="https://github.com/lautiipereiraa/usdzhinbot"
+                            href="https://github.com/lautaropereirag/usdzhinbot"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-gray-700 dark:bg-gray-600 text-white px-4 py-2 rounded-xl hover:bg-gray-800 dark:hover:bg-gray-500 transition-colors font-medium text-sm flex items-center gap-2 justify-center sm:justify-start"

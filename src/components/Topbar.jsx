@@ -180,7 +180,7 @@ const Topbar = () => {
           {/* Boton de Telegram fuera por ahora: el bot todavia no esta listo y
               apuntaba al repo, no a un bot usable.
           <motion.a
-            href="https://github.com/lautiipereiraa/usdzhinbot"
+            href="https://github.com/lautaropereirag/usdzhinbot"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.04 }}

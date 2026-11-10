@@ -32,7 +32,7 @@ Para configurar y ejecutar este proyecto de forma local, sigue estos pasos. Aseg
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone https://github.com/lautiipereiraa/usdzhin_site.git
+    git clone https://github.com/lautaropereirag/usdzhin_site.git
     ```
 2.  **Navega al directorio del proyecto:**
     ```bash

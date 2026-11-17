@@ -7,6 +7,9 @@ name: ${APP_NAME:-usdzhin}-dev
 
 services:
   frontend:
+    # Tope de RAM: ningun contenedor del VPS corre sin limite (2026-11-16).
+    mem_limit: 1g
+    memswap_limit: 1g
     image: ${APP_NAME:-usdzhin}-frontend-dev
     container_name: ${APP_NAME:-usdzhin}-frontend-dev
     build:
